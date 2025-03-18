@@ -35,5 +35,34 @@ console.log(booleanIsLoggedIn);
 let someNumber = 33
 
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// ***********************************************OPERATIONS***********************************************
+
+let value = 3
+let negativeValue = -value
+// console.log(negativeValue)
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
+
+// let str1 = "Hello"
+// let str2 = " Rohan"
+// let str3 = str1 + str2
+// console.log(str3);
+
+// console.log(1 + "2");
+// console.log("1" + 2);
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
+
