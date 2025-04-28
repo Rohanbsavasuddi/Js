@@ -42,7 +42,8 @@ function calculateCartPrice(val1, val2, ...num1) {
 }
 
 // console.log(calculateCartPrice(200, 400, 500, 2000));
-
+TODO: 
+FIXME: 
 const user = {
     userName : "Rohan",
     price : 199
